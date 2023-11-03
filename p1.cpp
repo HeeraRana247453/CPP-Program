@@ -1,4 +1,4 @@
-//To calculate the sum of two numbers.
+//To calculate the sum of two numbers using two variables.
 
 #include<iostream>
 using namespace std;
