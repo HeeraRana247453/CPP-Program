@@ -26,7 +26,7 @@ int main()
     // cout<<"the value of a is: "<<a<<endl;
     // cout<<"So b is also: "<<b<<endl;
 
-    // **************TypeCasting**************//
+    // **************TypeCasting & I/O_manipulation**************//
     float g=245.32;
     cout<<endl<<"    Typecasting from float to the integer: "<<setw(6)<<(int)g<<endl;      //int(g) is also valid
     cout<<"     Typecasting from float to the double: "<<setw(6)<<(double)g<<endl;     //double(g) is also valid
